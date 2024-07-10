@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Ankkit12
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on open source projects
-
-<!---<h1 align="center">Hi 👋, I'm Ankkit Mahadik</h1>
+<h1 align="center">Hi 👋, I'm Ankkit Mahadik</h1>
 <h3 align="center">A passionate Fullstack Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankkit12&label=Profile%20views&color=0e75b6&style=flat" alt="ankkit12" /> </p>
@@ -29,7 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankkit12&show_icons=true&locale=en&layout=compact" alt="ankkit12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankkit12&show_icons=true&locale=en" alt="ankkit12" /></p>
-
-Ankkit12/Ankkit12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
