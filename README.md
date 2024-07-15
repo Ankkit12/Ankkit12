@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankkit12&label=Profile%20views&color=0e75b6&style=flat" alt="ankkit12" /> </p>
 
-- 🔭 I’m currently working on web development **Blogging website**
+- 🔭 I’m currently working on web development projects
 
 - 🌱 I’m currently learning **Flask, Django**
 
